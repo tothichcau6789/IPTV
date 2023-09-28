@@ -104,29 +104,17 @@ http://s2129199.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv313&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw" } ], "type":"tạm thời "}
 http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="ThinhTV K+" tvg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE HD Viettel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/hf4k3zc675bcc1k/kpluscinekey.ico?dl=0  
+#EXTINF:-1  K+CINE HD Viettel
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="ThinhTV K+" tvg-logo="https://i.imgur.com/Fz9gGOd.png", K+LIFE HD Viettel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/xsft6z0g7wshrqd/Kpluslifekey.ico?dl=0  
+#EXTINF:-1 K+LIFE HD Viettel
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:0 tvg-id="ksport1hd" group-title="ThinhTV K+" tvg-logo="https://i.imgur.com/IXa0Fms.jpg", K+SPORT1 Viettel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uy6h2s6fl3urfas/Kplussport1key.ico?dl=0  
+#EXTINF:-1 K+SPORT1 Viettel
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:0 tvg-id="ksport2hd" group-title="ThinhTV K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+SPORT2 Viettel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/5lx2ytzuhm1nwep/KplusSport2key.ico?dl=0  
+#EXTINF:-1 K+SPORT2 Viettel
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title="ThinhTV k+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ Kids Viettel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/2rr19l6e8fmdhpb/KplusKidskey.ico?dl=0 
+#EXTINF:-1 K+ Kids Viettel
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
