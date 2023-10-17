@@ -1,4 +1,18 @@
-#EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
+
+
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+#Tham gia group Zalo để nhận thông báo: https://zalo.me/g/mdrity300
+#Hôm nay đã có 2025 lượt truy cập tới list
+
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrzalovthanh2.png", Tham gia group Zalo VThanhTivi
+http://plus.vthanhtivi.pw/intro/intro.m3u8
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrmb.png", Donate/Ủng hộ dự án
+http://plus.vthanhtivi.pw/donate/donate.m3u8
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Cập nhật lần cuối: 17/10/2023 10:08:20
+http://plus.vthanhtivi.pw/intro/intro.m3u8
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Hôm nay đã có 2025 lượt truy cập tới list
+http://plus.vthanhtivi.pw/intro/intro.m3u8
+
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
 #Không có link
@@ -824,11 +838,43 @@ https://asia.vthanhtivi.pw/BS11/index.m3u8
 https://asia.vthanhtivi.pw/AT-X/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
 #http://code.vthanhtivi.pw/getlink/jptvvn/206/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC 
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvosaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", TV Osaka 
 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
 #https://code.vthanhtivi.pw/getlink/jptvvn/207/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1  
 
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BS Premium  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png", BS NTV
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bsasahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png", BS Asahi  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bstbs" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png", BS TBS  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bstvtokyo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png", BS TV Tokyo
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bsfuji" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg", BS Fuji  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png", WOWOW Prime  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowlive" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png", WOWOW Live  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="wowowcinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png", WOWOW Cinema
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2  
+
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3  
 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", Green Channel  
 #https://code.vthanhtivi.pw/getlink/jptvvn/41/playlist.m3u8
@@ -910,6 +956,11 @@ https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/2560px-KBS_kids.svg.png", KBS Kids
 https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KBS_N_Sports.svg/2560px-KBS_N_Sports.svg.png", KBSN Sports
+
+
+
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1920px-Seoul_Broadcasting_System_logo.svg.png", SBS
 
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko", CJB SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
@@ -925,6 +976,10 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", G1 SBS
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/2560px-SBS_Golf_logo_2018.svg.png", SBS Golf
+
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn2awAL51ndbgHrk3JaGpoDR2drVWD4cGAQ&usqp=CAU", SBS Sports
 
 
 
@@ -1087,3 +1142,107 @@ https://ctrl.laotv.la/live/LATV/index.m3u8
 https://ctrl.laotv.la/live/PSTV/index.m3u8
 #EXTINF:-1 group-title="🇱🇦| Lào" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png", Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
+
+
+
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/euro.png", 01:45-17/10: Belgium vs Sweden - Vòng loại Euro 2024 #SD1
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8#|Referer=https://player.4shares.live/
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/euro.png", 01:45-17/10: Belgium vs Sweden - Vòng loại Euro 2024 #SD2   
+https://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/euro.png", 01:45-17/10: Belgium vs Sweden - Vòng loại Euro 2024 #HD   
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/euro.png", 01:45-17/10: Belgium vs Sweden - Vòng loại Euro 2024 #FullHD   
+https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/euro.png", 23:00-17/10: Finland vs Kazakhstan - Vòng loại Euro 2024  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 18:45-17/10: Bangladesh vs Maldives - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 19:15-17/10: Brunei Darussalam vs Indonesia - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 19:00-17/10: Bhutan vs Hong Kong - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 18:00-17/10: Timor Leste vs Chinese Taipei - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 11:45-17/10: Guam vs Singapore - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 19:00-17/10: Laos vs Nepal - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 18:30-17/10: Macau vs Myanmar - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 14:00-17/10: Mongolia vs Afghanistan - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 16:00-17/10: Pakistan vs Cambodia - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png", 16:30-17/10: Sri Lanka vs Yemen - FIFA World Cup qualification (AFC)  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 18:00-17/10: South Korea vs Vietnam - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 17:10-17/10: Japan vs Tunisia - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 23:00-17/10: Estonia vs Thailand - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 23:00-17/10: United Arab Emirates vs Lebanon - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 22:00-17/10: Saudi Arabia vs Mali - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/badminton.png", 14:00-17/10: Denmark Open vs 2023 - Cầu lông  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 23:00-17/10: Bahrain vs Philippines - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/830732d26697bba72bc03daa1536c4d6.png", 20:00-17/10: Malaysia vs Tajikistan - Pestabola Merdeka  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 20:00-17/10: North Macedonia vs Armenia - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 22:30-17/10: Benin vs Madagascar - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 23:00-17/10: Albania vs Bulgaria - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 22:30-17/10: Libya vs Niger - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 09:00-17/10: ATP500 vs Japan Open - Tennis #HD   
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 08:00-17/10: Jazz vs New Zealand - NBA Preseason #HD   
+https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 09:00-17/10: Suns vs Blazers - NBA Preseason #SD1
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8#|Referer=https://player.4shares.live/
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 09:00-17/10: Suns vs Blazers - NBA Preseason #SD2   
+https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 09:00-17/10: Suns vs Blazers - NBA Preseason #HD   
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 09:00-17/10: Suns vs Blazers - NBA Preseason #Full HD   
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 20:00-17/10: Cape Verde vs Comoros - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 22:30-17/10: Eczacıbaşı vs Fenerbahçe - Siêu cúp bóng chuyền nữ Thổ Nhĩ Kỳ  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 10:30-17/10: Taylor Fritz vs Cameron Norrie - Japan Open #SD1
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8#|Referer=https://player.4shares.live/
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 10:30-17/10: Taylor Fritz vs Cameron Norrie - Japan Open #SD2   
+https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 10:30-17/10: Taylor Fritz vs Cameron Norrie - Japan Open #HD   
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 10:30-17/10: Taylor Fritz vs Cameron Norrie - Japan Open #Full HD   
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 10:30-17/10: Taylor Fritz vs Cameron Norrie - Japan Open #Nhà Đài   
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 17:20-17/10: Aslan Karatsev vs Frances Tiafoe - Japan Open  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 21:30-17/10: Jordan vs Iraq - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 23:00-17/10: Syrian vs Kuwait - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 15:00-17/10: Lithuania U19 vs Armenia U19 - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 16:00-17/10: Malaga U19 vs Morocco U17 - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 16:00-17/10: Montenegro U17 vs Romania U17 - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 21:30-17/10: Angola vs Democratic Rep Congo - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 20:00-17/10: United Arab Emirates  U20 vs Iraq  U20 - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
+#EXTINF:-1 group-title="⚽️| ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 23:00-17/10: Sudan vs Chad - Giao hữu  
+http://vthanhtivi.pw:5000/vod/trandauchuaps.mp4/index.m3u8
