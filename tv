@@ -1,17 +1,7 @@
 #EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-#Tham gia group Zalo để nhận thông báo: https://zalo.me/g/mdrity300
-#Hôm nay đã có 2025 lượt truy cập tới list
 
-#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrzalovthanh2.png", Tham gia group Zalo VThanhTivi
-http://plus.vthanhtivi.pw/intro/intro.m3u8
-#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrmb.png", Donate/Ủng hộ dự án
-http://plus.vthanhtivi.pw/donate/donate.m3u8
-#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Cập nhật lần cuối: 17/10/2023 10:08:20
-http://plus.vthanhtivi.pw/intro/intro.m3u8
-#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Hôm nay đã có 2025 lượt truy cập tới list
-http://plus.vthanhtivi.pw/intro/intro.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
@@ -1127,77 +1117,5 @@ https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
 https://edge1.laotv.la/live/THD7/index.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🔓by DiepMoon" tvg-logo="http://trada.info/tv/logos/kcinehd.jpg", K+ Cine(🔓by Diepmoon)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/getuid.php?key=cine&token=3562755330
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 group-title="🔓by DiepMoon" tvg-id="klifehd" tvg-logo="http://trada.info/tv/logos/klifehd.jpg", K+ Life(🔓by Diepmoon)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/getuid.php?key=life&token=3562755330
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔓by DiepMoon" tvg-logo="http://trada.info/tv/logos/ksport1hd.jpg", K+ Sport1(🔓by Diepmoon)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/getuid.php?key=sp1&token=3562755330
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🔓by DiepMoon" tvg-logo="http://trada.info/tv/logos/ksport2hd.jpg", K+ Sport2(🔓by Diepmoon)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/getuid.php?key=sp2&token=3562755330
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="🔓by DiepMoon" tvg-logo="http://trada.info/tv/logos/kkidshd.jpg", K+ Kids(🔓by Diepmoon)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/getuid.php?key=kids&token=3562755330
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔓by DiepMoon" tvg-logo="https://i.ibb.co/yYBPpBn/klive1.png", K+ Live1 [🔓by Diepmoon]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg"}]}
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔓by DiepMoon" tvg-logo="https://i.ibb.co/M8cPkgB/klive2.png", K+ Live2 [🔓by Diepmoon]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ"}]}
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔓by DiepMoon" tvg-logo="https://i.ibb.co/xf9SZR9/klive3.png", K+ Live3 [🔓by Diepmoon]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw"}]}
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://vegaviettel.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="🔓by DiepMoon" tvg-logo="https://vnpt.com.vn/Media/Images/14032020/456.jpg", K+ CINE [🔓by Diepmoon]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"3M85idW2iMmm6QaiyRoFTQ", "kid":"yOIdrLfvTfKmmDFE9fT0pg"}]}
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="🔓by DiepMoon" tvg-logo="https://vnpt.com.vn/Media/Images/14032020/456.jpg", K+ LIFE [🔓by Diepmoon]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw"}]}
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🔓by DiepMoon" tvg-logo="https://vnpt.com.vn/Media/Images/14032020/456.jpg", K+ SPORT1 [🔓by Diepmoon]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=1&token=1287791226
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🔓by DiepMoon" tvg-logo="https://vnpt.com.vn/Media/Images/14032020/456.jpg", K+ SPORT2 [🔓by Diepmoon]
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=2&token=1287791226
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
