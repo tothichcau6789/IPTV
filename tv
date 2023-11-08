@@ -59,6 +59,46 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 
+#EXTINF:-1, DAZN 1
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178326.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="http://castlempire.site:8080/images/05f4fdddd91c95d8824f0824f100eba0.png" group-title="**DEPORTES HD-OP3**⚽",SKY SPORTS LA LIGA
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281690.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PL | SKY SPORTS PREMIER" tvg-logo="http://castlempire.site:8080/images/6b15ca50305bd0029143bc10a6a18079.png" group-title="**PREMIER LEAGUE**⚽",PL | SKY SPORTS PREMIER
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178325.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | Sky Sports Premiere League HD (UK)" tvg-logo="http://castlempire.site:8080/images/6b15ca50305bd0029143bc10a6a18079.png" group-title="**PREMIER LEAGUE**⚽",PL | Sky Sports Premiere League HD (UK)
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178327.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | SKY SPORTS LALIGA" tvg-logo="http://castlempire.site:8080/images/1b27bb3e847fa9b7befb79d2e48f341e.png" group-title="**LA LIGA ESPAÑA**⚽",ES | SKY SPORTS LALIGA
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/222078.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SKY Sports-Golf" tvg-logo="http://castlempire.site:8080/images/7d55d4ff425edfceb318b6ae7405920d.jpg" group-title="**DEPORTES HD**⚽",DEPORTES | SKY Sports-Golf
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/170058.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 16" tvg-logo="https://scotlandyard.at/fileadmin/user_upload/unnamed.jpg" group-title="**DEPORTES HD-OP2**⚽",DEPORTES HD | SKY SPORTS 16
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181265.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 21" tvg-logo="https://scotlandyard.at/fileadmin/user_upload/unnamed.jpg" group-title="**DEPORTES HD-OP2**⚽",DEPORTES HD | SKY SPORTS 21
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181264.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 21" tvg-logo="http://castlempire.site:8080/images/5cf788e17274e6e6b80b26d015222b5c.jpg" group-title="**BUNDESLIGA**⚽",DEPORTES HD | SKY SPORTS 21
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/221520.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Serie A | Sky Dazn Bar" tvg-logo="http://castlempire.site:8080/images/51e56a62f0d8cbad0efa3e125ebaf828.png" group-title="**SERIE A**⚽",Serie A | Sky Dazn Bar
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178344.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN 1
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281593.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN 2
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281594.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN 4
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281596.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 ESPAÑA FHD" tvg-logo="http://castlempire.site:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN LA LIGA 2 ESPAÑA FHD
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281597.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA ESPAÑA FHD" tvg-logo="http://castlempire.site:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN LA LIGA ESPAÑA FHD
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281598.ts
+#EXTINF:-1, Canal+formulat
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258262.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Sky Sports F1 FHD" tvg-logo="http://castlempire.site:8080/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="**PACK  F1-TENNIS-CICLISMO**",F1 | Sky Sports F1 FHD
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258269.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 |  Formula 1 HD-OP2" tvg-logo="http://castlempire.site:8080/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="**PACK  F1-TENNIS-CICLISMO**",F1 |  Formula 1 HD-OP2
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258270.ts
 
