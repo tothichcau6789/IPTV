@@ -67,7 +67,7 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.231:11028
 #EXTINF:-1 tvg-id="23" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="CCTV",CCTV4美洲 高清
 http://dd.ikhs.cn:8880/rtp/239.69.1.232:11034
 #EXTINF:-1 tvg-id="20" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN NEWS 高清
-http://dd.ikhs.cn:8880/rtp/239.254.96.175:9124
+#http://dd.ikhs.cn:8880/rtp/239.254.96.175:9124
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN FRANCAIS 高清
 #
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN ESPANOL 高清
@@ -147,7 +147,7 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.169:10650
 #EXTINF:-1 tvg-id="2060" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="",峨眉电影 高清
 #
 #EXTINF:-1 tvg-id="59" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="",青海卫视 高清
-#
+http://dd.ikhs.cn:8880/rtp/239.254.96.95:8544
 #EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="",黑龙江卫视 高清
 http://dd.ikhs.cn:8880/rtp/239.254.96.138:8902
 #EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="",江西卫视 高清
@@ -155,7 +155,7 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.126:10394
 #EXTINF:-1 tvg-id="51" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="",吉林卫视 高清
 http://dd.ikhs.cn:8880/rtp/239.69.1.212:10914
 #EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 高清
-#
+http://dd.ikhs.cn:8880/rtp/239.254.96.41:8220
 #EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 高清
 http://dd.ikhs.cn:8880/rtp/239.69.1.110:10298
 #EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="",凤凰卫视 高清
