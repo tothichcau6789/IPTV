@@ -156,7 +156,7 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.126:10394
 http://dd.ikhs.cn:8880/rtp/239.69.1.212:10914
 #EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 高清
 http://dd.ikhs.cn:8880/rtp/239.254.96.41:8220
-#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 高清
+#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="卫视频道",CETV1 高清
 http://dd.ikhs.cn:8880/rtp/239.69.1.110:10298
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2
 http://dd.ikhs.cn:8880/rtp/239.69.1.183:10734
