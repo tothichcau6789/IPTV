@@ -1,840 +1,198 @@
-#EXTM3U  url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 url="https://s.id/vbk-plus"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-#https://wintv.fun/kcine/index.mpd
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
-#https://wintv.fun/klife/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-#https://wintv.fun/ksport1/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-#https://wintv.fun/ksport2/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-#https://wintv.fun/kkids/index.mpd
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
-#https://wintv.fun/klive1/index.mpd
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
-#https://wintv.fun/klive2/index.mpd
-#EXTINF:-1 tvg-id="" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
-#https://wintv.fun/klive3/index.mpd
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-http://m3u.at/K-cine-hd23
-
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+ FHD
-http://m3u.at/life23
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-http://m3u.at/ksport1-hd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-http://m3u.at/K-sport2-hd23
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-http://m3u.at/Kkids23-fhd
-
-
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
-https://drm-livecdn.khanggtivi.xyz/kplus/2ab3a9eedb4ce873b15be39bb7f8f2f738f868cd14efa10c624e5a7640e92f13880d88/47/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
-https://drm-livecdn.khanggtivi.xyz/kplus/2ab3a9eedb4ce873b15be39bb7f8f2f738f868cd14efa10c624e5a7640e92f13880d88/48/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
-https://drm-livecdn.khanggtivi.xyz/kplus/2ab3a9eedb4ce873b15be39bb7f8f2f738f868cd14efa10c624e5a7640e92f13880d88/49/index.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XlpE5rpGAhwSfEtoNYhYBw", "kid": "pSdXI8lMR2qrjjTQR4VWMA"}], "type": "temporary"}
-#EXTINF:-1 group-title="Sports;International" tvg-id="kplussport1.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZ97OpavzPhc_Hca9gvGQ6TYL6sx2e9GtONWig=s900-c-k-c0x00ffffff-no-rj",K+ Sport 1
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "VOO7hRkYHjke00zEoKVlVw", "kid": "/1G2wwGYROGJv+Wmo8pT1w"}], "type": "temporary"}
-#EXTINF:-1 group-title="Sports;International" tvg-id="kplussport2.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZ97OpavzPhc_Hca9gvGQ6TYL6sx2e9GtONWig=s900-c-k-c0x00ffffff-no-rj",K+ Sport 2
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-
-
-
-#EXTINF:-1, DAZN 1
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178326.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LA LIGA" tvg-logo="http://castlempire.site:8080/images/05f4fdddd91c95d8824f0824f100eba0.png" group-title="**DEPORTES HD-OP3**⚽",SKY SPORTS LA LIGA
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281690.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PL | SKY SPORTS PREMIER" tvg-logo="http://castlempire.site:8080/images/6b15ca50305bd0029143bc10a6a18079.png" group-title="**PREMIER LEAGUE**⚽",PL | SKY SPORTS PREMIER
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178325.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL | Sky Sports Premiere League HD (UK)" tvg-logo="http://castlempire.site:8080/images/6b15ca50305bd0029143bc10a6a18079.png" group-title="**PREMIER LEAGUE**⚽",PL | Sky Sports Premiere League HD (UK)
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178327.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES | SKY SPORTS LALIGA" tvg-logo="http://castlempire.site:8080/images/1b27bb3e847fa9b7befb79d2e48f341e.png" group-title="**LA LIGA ESPAÑA**⚽",ES | SKY SPORTS LALIGA
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/222078.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SKY Sports-Golf" tvg-logo="http://castlempire.site:8080/images/7d55d4ff425edfceb318b6ae7405920d.jpg" group-title="**DEPORTES HD**⚽",DEPORTES | SKY Sports-Golf
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/170058.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 16" tvg-logo="https://scotlandyard.at/fileadmin/user_upload/unnamed.jpg" group-title="**DEPORTES HD-OP2**⚽",DEPORTES HD | SKY SPORTS 16
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181265.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 21" tvg-logo="https://scotlandyard.at/fileadmin/user_upload/unnamed.jpg" group-title="**DEPORTES HD-OP2**⚽",DEPORTES HD | SKY SPORTS 21
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181264.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 21" tvg-logo="http://castlempire.site:8080/images/5cf788e17274e6e6b80b26d015222b5c.jpg" group-title="**BUNDESLIGA**⚽",DEPORTES HD | SKY SPORTS 21
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/221520.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Serie A | Sky Dazn Bar" tvg-logo="http://castlempire.site:8080/images/51e56a62f0d8cbad0efa3e125ebaf828.png" group-title="**SERIE A**⚽",Serie A | Sky Dazn Bar
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178344.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN 1
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281593.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN 2
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281594.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1819" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN 4
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281596.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 ESPAÑA FHD" tvg-logo="http://castlempire.site:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN LA LIGA 2 ESPAÑA FHD
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281597.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA ESPAÑA FHD" tvg-logo="http://castlempire.site:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="**LA LIGA ESPAÑA-OP2**⚽",DAZN LA LIGA ESPAÑA FHD
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/281598.ts
-#EXTINF:-1, Canal+formulat
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258262.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 | Sky Sports F1 FHD" tvg-logo="http://castlempire.site:8080/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="**PACK  F1-TENNIS-CICLISMO**",F1 | Sky Sports F1 FHD
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258269.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 |  Formula 1 HD-OP2" tvg-logo="http://castlempire.site:8080/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="**PACK  F1-TENNIS-CICLISMO**",F1 |  Formula 1 HD-OP2
-https://castlempire.site:443/23CAMILO004/2gX6jTGw48/258270.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-six-hd-in.png" group-title="India",IN: SONY SIX HD
-http://51015541299651808.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/651808.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 1 SD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-1-in.png" group-title="India",IN: SONY TEN 1 SD
-http://51015541299651809.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/651809.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 3 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/sony-ten-3-in.png" group-title="India",IN: SONY TEN 3 HD
-http://51015541299651810.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/651810.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORT 1 FHD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORT 1 FHD
-http://51015541299324192.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324192.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORT 2 FHD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORT 2 FHD
-http://51015541299324193.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324193.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2 UK HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORTS 2 UK HD
-http://51015541299324194.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324194.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS IR 1 HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORTS IR 1 HD
-http://51015541299324195.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324195.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS IR 2 HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORTS IR 2 HD
-http://51015541299324196.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324196.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS UK 1 HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORTS UK 1 HD
-http://51015541299324197.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324197.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS UK 2 HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORTS UK 2 HD
-http://51015541299324198.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324198.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORT 2 HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORT 2 HD
-http://51015541299306424.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306424.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/premier-sports.png" group-title="UK Sport",UK: PREMIER SPORTS 1 HD
-http://51015541299306425.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306425.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2* HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORTS 2* HD
-http://51015541299306426.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306426.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: IRE | PREMIER SPORTS 1 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FkwX2HqQGA6N8LenlJq6SvCiqYll0tDXbY3n2I-qN6Ey_amq0YXIq25T9k0aRz_9Lk.png" group-title="UK Sport",UK: IRE | PREMIER SPORTS 1 FHD
-http://51015541299306417.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306417.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: IRE | PREMIER SPORTS 1 HD" tvg-logo="http://live.phenixiptv.com:8080/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FkwX2HqQGA6N8LenlJq6SvCiqYll0tDXbY3n2I-qN6Ey_amq0YXIq25T9k0aRz_9Lk.png" group-title="UK Sport",UK: IRE | PREMIER SPORTS 1 HD
-http://51015541299306418.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306418.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: IRE | PREMIER SPORTS 2 FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xn68lI8s5X9tWJQXWlesir3xIKLfVwCn6_0AVcCUDqZwp7bBM_psJSYelNnsvtN6gw.png" group-title="UK Sport",UK: IRE | PREMIER SPORTS 2 FHD
-http://51015541299306420.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306420.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: IRE | PREMIER SPORTS 2 HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xn68lI8s5X9tWJQXWlesir3xIKLfVwCn6_0AVcCUDqZwp7bBM_psJSYelNnsvtN6gw.png" group-title="UK Sport",UK: IRE | PREMIER SPORTS 2 HD
-http://51015541299306421.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306421.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1 FHD" tvg-logo="" group-title="SVIP SPORTS",IN: STAR SPORTS SELECT 1 FHD
-http://51015541299666201.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666201.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2 FHD" tvg-logo="" group-title="SVIP SPORTS",IN: STAR SPORTS SELECT 2 FHD
-http://51015541299672483.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672483.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT PSL HD" tvg-logo="" group-title="SVIP SPORTS",ZA SUPERSPORT PSL HD
-http://51015541299666212.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666212.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT MOTORSPORT HD" tvg-logo="" group-title="SVIP SPORTS",ZA: SUPERSPORT MOTORSPORT HD
-http://51015541299666215.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666215.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="SVIP SPORTS",ZA: SUPERSPORT PREMIER LEAGUE HD
-http://51015541299666216.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666216.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT TENNIS HEVC" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT TENNIS HEVC
-http://51015541299672484.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672484.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL HD⁺ HD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT VOETBAL HD⁺ HD
-http://51015541299672485.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672485.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT HD⁺ HD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT HD⁺ HD
-http://51015541299673281.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673281.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="SVIP SPORTS",ZA SUPERSPORT PREMIER LEAGUE HD
-http://51015541299673296.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673296.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT CRICKET HD" tvg-logo="" group-title="SVIP SPORTS",ZA SUPERSPORT CRICKET HD
-http://51015541299676925.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676925.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT VARIETY 1 HD" tvg-logo="" group-title="SVIP SPORTS",ZA SUPERSPORT VARIETY 1 HD
-http://51015541299676927.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676927.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT VARIETY 2 HD" tvg-logo="" group-title="SVIP SPORTS",ZA SUPERSPORT VARIETY 2 HD
-http://51015541299676928.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676928.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT CRICKET HD" tvg-logo="" group-title="SVIP SPORTS",ZA: SUPERSPORT CRICKET HD
-http://51015541299676929.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676929.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT FOOTBALL HD" tvg-logo="" group-title="SVIP SPORTS",ZA: SUPERSPORT FOOTBALL HD
-http://51015541299676930.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676930.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT MAXIMO 1 HD" tvg-logo="" group-title="SVIP SPORTS",ZA: SUPERSPORT MAXIMO 1 HD
-http://51015541299676931.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676931.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT VARIETY 1 HD" tvg-logo="" group-title="SVIP SPORTS",ZA: SUPERSPORT VARIETY 1 HD
-http://51015541299676933.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676933.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 1 SHD FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT PREMIUM 1 SHD FHD
-http://51015541299662503.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662503.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 2 SHD FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT PREMIUM 2 SHD FHD
-http://51015541299662504.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662504.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 3 FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT PREMIUM 3 FHD
-http://51015541299662505.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662505.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD⁺ FHD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT GOLF HD⁺ FHD
-http://51015541299662487.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662487.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299662488.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662488.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT RACING HD⁺ FHD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT RACING HD⁺ FHD
-http://51015541299662490.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662490.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT RACING ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT RACING ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299662491.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662491.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT HD⁺ HD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT SELECT HD⁺ HD
-http://51015541299662492.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662492.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT SELECT ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299662493.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662493.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="" group-title="SVIP SPORTS",NL: ZIGGO SPORT VOETBAL ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299662495.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662495.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT HD⁺ FHD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT HD⁺ FHD
-http://51015541299340285.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/340285.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT RACING HD⁺ HD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT RACING HD⁺ HD
-http://51015541299340286.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/340286.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT HD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT SELECT HD
-http://51015541299340287.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/340287.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL HD⁺ FHD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT VOETBAL HD⁺ FHD
-http://51015541299340288.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/340288.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT ᴴ²⁵⁶ ᴴᵉᵛᶜ FHD
-http://51015541299340289.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/340289.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA HD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT ARENA HD
-http://51015541299676911.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676911.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO HD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT CALCIO HD
-http://51015541299675367.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/675367.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP FHD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT MOTOGP FHD
-http://51015541299675368.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/675368.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA HD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT NBA HD
-http://51015541299675369.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/675369.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT 24 HD
-http://51015541299662475.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662475.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1 FHD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT F1 FHD
-http://51015541299662478.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662478.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT FOOTBALL HD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT FOOTBALL HD
-http://51015541299662479.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662479.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA COMEDY HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA COMEDY HD
-http://51015541299598481.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/598481.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY UNO HD" tvg-logo="" group-title="Italy",IT: SKY UNO HD
-http://51015541299598522.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/598522.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ATLANTIC HD" tvg-logo="" group-title="Italy",IT: SKY ATLANTIC HD
-http://51015541299606523.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/606523.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA COLLECTION FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA COLLECTION FHD
-http://51015541299609322.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/609322.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA DUE FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA DUE FHD
-http://51015541299609325.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/609325.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA SUSPENSE FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA SUSPENSE FHD
-http://51015541299609329.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/609329.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA UNO FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA UNO FHD
-http://51015541299609331.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/609331.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA ACTION HD
-http://51015541299612732.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/612732.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-cinema-action-it.png" group-title="Italy",IT: SKY CINEMA ACTION VIP HD
-http://51015541299615436.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/615436.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ARTE FHD" tvg-logo="" group-title="Italy",IT: SKY ARTE FHD
-http://51015541299635633.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635633.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ARTE HD" tvg-logo="" group-title="Italy",IT: SKY ARTE HD
-http://51015541299635634.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635634.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ATLANTIC FHD" tvg-logo="" group-title="Italy",IT: SKY ATLANTIC FHD
-http://51015541299635635.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635635.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA COLLECTION HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA COLLECTION HD
-http://51015541299635637.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635637.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA DRAMA HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA DRAMA HD
-http://51015541299635640.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635640.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ROMANCE HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA ROMANCE HD
-http://51015541299635646.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635646.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY DOCUMENTARIES HD" tvg-logo="" group-title="Italy",IT: SKY DOCUMENTARIES HD
-http://51015541299635651.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635651.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY INVESTIGATION FHD" tvg-logo="" group-title="Italy",IT: SKY INVESTIGATION FHD
-http://51015541299635652.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635652.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="Italy",IT: SKY SPORT 24 HD
-http://51015541299635658.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635658.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 253 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 253 FHD
-http://51015541299635661.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635661.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT ARENA FHD
-http://51015541299635671.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635671.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT CALCIO FHD
-http://51015541299635672.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635672.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT F1 FHD
-http://51015541299635674.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635674.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP HD" tvg-logo="" group-title="Italy",IT: SKY SPORT MOTOGP HD
-http://51015541299635676.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635676.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS HD" tvg-logo="" group-title="Italy",IT: SKY SPORT TENNIS HD
-http://51015541299635681.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635681.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO HD" tvg-logo="" group-title="Italy",IT: SKY SPORT UNO HD
-http://51015541299635682.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/635682.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SERIE HD" tvg-logo="" group-title="Italy",IT: SKY SERIE HD
-http://51015541299641383.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/641383.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA DUE HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA DUE HD
-http://51015541299642000.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/642000.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA UNO HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA UNO HD
-http://51015541299642003.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/642003.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SERIE FHD" tvg-logo="" group-title="Italy",IT: SKY SERIE FHD
-http://51015541299642005.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/642005.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA COMEDY FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA COMEDY FHD
-http://51015541299644077.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644077.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA DRAMA FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA DRAMA FHD
-http://51015541299644078.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644078.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA FAMILY FHD
-http://51015541299644079.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644079.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA FAMILY HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA FAMILY HD
-http://51015541299644080.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644080.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ROMANCE FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA ROMANCE FHD
-http://51015541299644081.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644081.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY DOCUMENTARIES FHD" tvg-logo="" group-title="Italy",IT: SKY DOCUMENTARIES FHD
-http://51015541299644084.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644084.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY UNO FHD" tvg-logo="" group-title="Italy",IT: SKY UNO FHD
-http://51015541299644093.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644093.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 259 SD" tvg-logo="" group-title="Italy",IT: SKY SPORT 259 SD
-http://51015541299656107.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/656107.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT GOLF HD" tvg-logo="" group-title="Italy",IT: SKY SPORT GOLF HD
-http://51015541299656110.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/656110.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MAX FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT MAX FHD
-http://51015541299656111.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/656111.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA HD" tvg-logo="" group-title="Italy",IT: SKY SPORT ARENA HD
-http://51015541299660037.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/660037.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT GOLF FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT GOLF FHD
-http://51015541299660041.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/660041.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT UNO FHD
-http://51015541299660627.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/660627.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-sport-uno-it.png" group-title="Italy",IT: SKY SPORT UNO VIP HD
-http://51015541299662649.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662649.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA DUE VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-cinema-due-it.png" group-title="Italy",IT: SKY CINEMA DUE VIP HD
-http://51015541299663294.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/663294.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MAX HD" tvg-logo="" group-title="Italy",IT: SKY SPORT MAX HD
-http://51015541299672723.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672723.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ARTE VIP FHD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-arte-it.png" group-title="Italy",IT: SKY ARTE VIP FHD
-http://51015541299673976.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673976.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ATLANTIC VIP FHD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-atlantic-it.png" group-title="Italy",IT: SKY ATLANTIC VIP FHD
-http://51015541299673977.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673977.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA DUE +24 VIP HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA DUE +24 VIP HD
-http://51015541299673979.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673979.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA UNO +24 VIP HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA UNO +24 VIP HD
-http://51015541299673981.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673981.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY INVESTIGATION HD" tvg-logo="" group-title="Italy",IT: SKY INVESTIGATION HD
-http://51015541299673982.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673982.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY NATURE HD" tvg-logo="" group-title="Italy",IT: SKY NATURE HD
-http://51015541299673983.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673983.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 252 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 252 FHD
-http://51015541299673993.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673993.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 256 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 256 FHD
-http://51015541299673994.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673994.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-sport-serie-a-it.png" group-title="Italy",IT: SKY SPORT CALCIO VIP HD
-http://51015541299673995.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673995.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 2 VIP FHD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBctew31A-1Ef5WAf4jEltW76jZwXA0M3ddyjZNd-sBh6.png" group-title="Italy",IT: SKY CALCIO 2 VIP FHD
-http://51015541299676022.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676022.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA ACTION FHD" tvg-logo="" group-title="Italy",IT: SKY CINEMA ACTION FHD
-http://51015541299676023.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676023.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA SUSPENSE VIP FHD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-cinema-suspense-hz-it.png" group-title="Italy",IT: SKY CINEMA SUSPENSE VIP FHD
-http://51015541299676026.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676026.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA SUSPENSE HD" tvg-logo="" group-title="Italy",IT: SKY CINEMA SUSPENSE HD
-http://51015541299676027.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676027.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA 1 VIP FHD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzDPYuh03qMu8S1PjId66J5N_c-YktipalzOci79A3cs7s.png" group-title="Italy",IT: SKY PRIMAFILA 1 VIP FHD
-http://51015541299676028.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676028.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 01 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 01 HEVC
-http://51015541299676031.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676031.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 02 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 02 HEVC
-http://51015541299676032.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676032.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 04 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 04 HEVC
-http://51015541299676033.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676033.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 05 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 05 HEVC
-http://51015541299676034.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676034.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 06 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 06 HEVC
-http://51015541299676035.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676035.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 07 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 07 HEVC
-http://51015541299676036.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676036.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 08 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 08 HEVC
-http://51015541299676037.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676037.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE 09 HEVC" tvg-logo="" group-title="Italy",IT: SKY PRIMAFILA PREMIERE 09 HEVC
-http://51015541299676038.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676038.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA PREMIERE VIP HEVC" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-primafila-it.png" group-title="Italy",IT: SKY PRIMAFILA PREMIERE VIP HEVC
-http://51015541299676039.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676039.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 254 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 254 FHD
-http://51015541299676040.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676040.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO HD" tvg-logo="" group-title="Italy",IT: SKY SPORT CALCIO HD
-http://51015541299676041.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676041.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1 HD" tvg-logo="" group-title="Italy",IT: SKY SPORT F1 HD
-http://51015541299676042.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676042.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT FOOTBALL VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzDB4UCiJx4G05ONlmlzdUFysDLoloro-uqGit9LMP5hMU.png" group-title="Italy",IT: SKY SPORT FOOTBALL VIP HD
-http://51015541299676043.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676043.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT MOTOGP FHD
-http://51015541299676045.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676045.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT NBA FHD
-http://51015541299676046.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676046.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT TENNIS FHD
-http://51015541299676049.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676049.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 257 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 257 FHD
-http://51015541299678033.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/678033.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 260 SD" tvg-logo="" group-title="Italy",IT: SKY SPORT 260 SD
-http://51015541299678034.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/678034.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA COMEDY VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-cinema-comedy-hz-it.png" group-title="Italy",IT: SKY CINEMA COMEDY VIP HD
-http://51015541299679140.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679140.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA FAMILY VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-cinema-family-it.png" group-title="Italy",IT: SKY CINEMA FAMILY VIP HD
-http://51015541299679141.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679141.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA UNO VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-cinema-uno-it.png" group-title="Italy",IT: SKY CINEMA UNO VIP HD
-http://51015541299679142.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679142.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA 2 VIP SD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-primafila-it.png" group-title="Italy",IT: SKY PRIMAFILA 2 VIP SD
-http://51015541299679143.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679143.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA 4 VIP FHD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzDPYuh03qMu8S1PjId66J5N_c-YktipalzOci79A3cs7s.png" group-title="Italy",IT: SKY PRIMAFILA 4 VIP FHD
-http://51015541299679144.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679144.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA 5 VIP HEVC" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-primafila-it.png" group-title="Italy",IT: SKY PRIMAFILA 5 VIP HEVC
-http://51015541299679145.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679145.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA 6 VIP HEVC" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzDPYuh03qMu8S1PjId66J5N_c-YktipalzOci79A3cs7s.png" group-title="Italy",IT: SKY PRIMAFILA 6 VIP HEVC
-http://51015541299679146.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679146.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY PRIMAFILA 8 VIP SD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-primafila-it.png" group-title="Italy",IT: SKY PRIMAFILA 8 VIP SD
-http://51015541299679147.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679147.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24 VIP FHD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-sport-24-it.png" group-title="Italy",IT: SKY SPORT 24 VIP FHD
-http://51015541299679148.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679148.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 24 FHD
-http://51015541299679149.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679149.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-sport-arena-it.png" group-title="Italy",IT: SKY SPORT ARENA VIP HD
-http://51015541299679150.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679150.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-sport-motogp-it.png" group-title="Italy",IT: SKY SPORT MOTOGP VIP HD
-http://51015541299679151.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679151.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS VIP HEVC" tvg-logo="" group-title="Italy",IT: SKY SPORT TENNIS VIP HEVC
-http://51015541299679152.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679152.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SUPER TENNIS VIP HEVC" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGbMu5SkrOY9kK2SFiuDE5YBy6CtJVz5J0U0hwqFYhpAPQ.png" group-title="Italy",IT: SKY SUPER TENNIS VIP HEVC
-http://51015541299679153.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679153.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 1 SHD FHD" tvg-logo="" group-title="Poland",PL: POLSAT SPORT PREMIUM 1 SHD FHD
-http://51015541299628438.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628438.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 2 SHD FHD" tvg-logo="" group-title="Poland",PL: POLSAT SPORT PREMIUM 2 SHD FHD
-http://51015541299628439.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628439.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 5 FHD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBT0L-y3PwidvdB19xKu5z7cGSjKHEvWmHn27iySE4DOpU2Iu3IQ_rYSgMY3-0ErcWQ.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 5 FHD
-http://51015541299628441.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628441.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 6 FHD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBT0L-y3PwidvdB19xKu5z7cGSjKHEvWmHn27iySE4DOp1P81DDMsZkEnpNlIOTDrTA.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 6 FHD
-http://51015541299628442.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628442.ts
-#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PREMIUM PPV 6 FHD" tvg-logo="" group-title="Poland",PL: POLSAT SPORT PREMIUM PPV 6 FHD
-http://51015541299637354.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/637354.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 4 FHD
-http://51015541299638115.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/638115.ts
-#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT PREMIUM PPV 3 FHD" tvg-logo="" group-title="Poland",PL: POLSAT SPORT PREMIUM PPV 3 FHD
-http://51015541299646761.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/646761.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 1 FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT PREMIUM 1 FHD
-http://51015541299673283.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/673283.ts
-
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC FHD" tvg-logo="" group-title="Germany VIP",DE: SKY ATLANTIC FHD
-http://51015541299557403.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/557403.ts
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/sky-one-de.png?raw=true" group-title="Germany VIP",DE: SKY ONE FHD
-http://51015541299562807.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/562807.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CINEMA THRILLER FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/sky-cinema-thriller-de.png?raw=true" group-title="Germany VIP",DE: SKY CINEMA THRILLER FHD
-http://51015541299569194.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/569194.ts
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA FAMILY FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/sky-cinema-family-it.png" group-title="Germany VIP",DE: SKY CINEMA FAMILY FHD
-http://51015541299574975.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/574975.ts
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA PREMIEREN FHD
-http://51015541299574979.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/574979.ts
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE: SKY CINEMA FUN FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA FUN FHD
-http://51015541299593468.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/593468.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA ACTION FHD
-http://51015541299609222.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/609222.ts
-
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY SELECT 10 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SELECT 10 FHD
-http://51015541299647285.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/647285.ts
-#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="DE: SKY SELECT 5 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SELECT 5 FHD
-http://51015541299647286.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/647286.ts
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 HEVC" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 2 HEVC
-http://51015541299647288.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/647288.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT AUSTRIA 1 FHD
-http://51015541299648832.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/648832.ts
-
-#EXTINF:-1 tvg-id="skyselect9.de" tvg-name="DE: SKY SELECT 9 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SELECT 9 FHD
-http://51015541299653910.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/653910.ts
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: SKY SPORT 3 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 3 FHD
-http://51015541299653912.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/653912.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CINEMA BEST OF HD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA BEST OF HD
-http://51015541299666500.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666500.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI HD" tvg-logo="" group-title="Germany VIP",DE: SKY KRIMI HD
-http://51015541299666506.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666506.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SERIEN & SHOWS FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SERIEN & SHOWS FHD
-http://51015541299666509.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666509.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 6 FHD
-http://51015541299666514.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666514.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 1 FHD
-http://51015541299666515.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666515.ts
-
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY DOCUMENTARIES HD" tvg-logo="" group-title="Germany VIP",DE: SKY DOCUMENTARIES HD
-http://51015541299670901.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/670901.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY NATURE HD" tvg-logo="" group-title="Germany VIP",DE: SKY NATURE HD
-http://51015541299670902.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/670902.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 11 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 11 HD
-http://51015541299670904.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/670904.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 5 FHD
-http://51015541299670906.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/670906.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 5 FHD
-http://51015541299670912.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/670912.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 7 HD
-http://51015541299670913.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/670913.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 8 SD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 8 SD
-http://51015541299670914.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/670914.ts
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY BUNDESLIGA 5 FHD
-http://51015541299672146.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672146.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CRIME FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CRIME FHD
-http://51015541299672148.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672148.ts
-
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC SD" tvg-logo="" group-title="Germany VIP",DE: SKY ATLANTIC SD
-http://51015541299672784.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672784.ts
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/sky-one-de.png?raw=true" group-title="Germany VIP",DE: SKY ONE HD
-http://51015541299672786.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672786.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT F1 HD
-http://51015541299672791.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672791.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 4 FHD
-http://51015541299674056.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674056.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 9 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 9 HD
-http://51015541299674058.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674058.ts
-
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY BUNDESLIGA 2 FHD
-http://51015541299676596.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676596.ts
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY BUNDESLIGA 4 FHD
-http://51015541299676597.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676597.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA FAMILY HD
-http://51015541299676598.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676598.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CINEMA PREMIEREN HD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA PREMIEREN HD
-http://51015541299676599.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676599.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY COMEDY HD" tvg-logo="" group-title="Germany VIP",DE: SKY COMEDY HD
-http://51015541299676600.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676600.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 10 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 10 HD
-http://51015541299676601.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676601.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 4 FHD
-http://51015541299676604.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676604.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 6 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 6 HD
-http://51015541299676605.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676605.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 7 FHD
-http://51015541299676606.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676606.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 7 HD
-http://51015541299676607.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676607.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 8 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 8 HD
-http://51015541299676608.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676608.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2 HD (ONLY ON MATCH DAYS) FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT AUSTRIA 2 HD (ONLY ON MATCH DAYS) FHD
-http://51015541299676609.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676609.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 10 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 10 HD
-http://51015541299676610.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676610.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 6 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 6 HD
-http://51015541299676612.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676612.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 8 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 8 HD
-http://51015541299676613.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676613.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 9 FHD
-http://51015541299676614.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676614.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF SD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT GOLF SD
-http://51015541299672472.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/672472.ts
-
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY BUNDESLIGA 3 FHD
-http://51015541299677624.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/677624.ts
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: SKY SPORT 2 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 2 FHD
-http://51015541299677625.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/677625.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 4 HD
-http://51015541299677626.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/677626.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 9 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 9 HD
-http://51015541299677627.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/677627.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 3 HD
-http://51015541299677628.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/677628.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 10 FHD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBV0VWiSFFL0Exio-4jsz4zGJ2hOdbtKD3-oJeuRAbu4S.png" group-title="France",FR: CANAL PLAY 10 FHD
-http://51015541299674449.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674449.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 3 SD" tvg-logo="https://asiagrandiptv.us/logo/canalplay3.png" group-title="France",FR: CANAL PLAY 3 SD
-http://51015541299674451.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674451.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 4 FHD" tvg-logo="https://asiagrandiptv.us/logo/canalplay4.png" group-title="France",FR: CANAL PLAY 4 FHD
-http://51015541299674452.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674452.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 6 SD" tvg-logo="https://asiagrandiptv.us/logo/canalplay6.png" group-title="France",FR: CANAL PLAY 6 SD
-http://51015541299674453.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674453.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ CINEMA SD" tvg-logo="http://fanc.tmsimg.com/assets/s87280_ll_h3_aa.png" group-title="France",FR: CANAL+ CINEMA SD
-http://51015541299674455.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674455.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ DECALE HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIBMd9u2b1NLQ-DoP7_RzBQjJ0Rr6hBvlE_U7BGrz2NaQ.png" group-title="France",FR: CANAL+ DECALE HD
-http://51015541299674456.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674456.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ F1 SD" tvg-logo="" group-title="France",FR: CANAL+ F1 SD
-http://51015541299674457.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674457.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FORMULA 1 HD" tvg-logo="" group-title="France",FR: CANAL+ FORMULA 1 HD
-http://51015541299674459.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674459.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ KIDS FHD" tvg-logo="https://asiagrandiptv.us/logo//canal+now.png" group-title="France",FR: CANAL+ KIDS FHD
-http://51015541299674460.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674460.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ PREMIERE LEAGUE FHD" tvg-logo="" group-title="France",FR: CANAL+ PREMIERE LEAGUE FHD
-http://51015541299674462.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674462.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="" group-title="SVIP SPORTS",FR| CANAL+ SPORT HD
-http://51015541299662411.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662411.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SERIES SD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwJLrzmFMPIin2e333hJdUCqpaZ40uE3yjsV0lr3ZUI3mg.png" group-title="France",FR: CANAL+ SERIES SD
-http://51015541299674463.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674463.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY FHD" tvg-logo="" group-title="France",FR: CANAL+ TOP14 RUGBY FHD
-http://51015541299674465.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674465.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ TOP14 RUGBY SD" tvg-logo="" group-title="France",FR: CANAL+ TOP14 RUGBY SD
-http://51015541299674466.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/674466.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 2 HD" tvg-logo="https://asiagrandiptv.us/logo//CANAL+SPORT2.png" group-title="France Sport",FR: CANAL+ SPORT 2 HD
-http://51015541299679160.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679160.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 360 FHD" tvg-logo="https://asiagrandiptv.us/logo//CANAL+SPORT.png" group-title="France Sport",FR: CANAL+ SPORT 360 FHD
-http://51015541299679161.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679161.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT SD" tvg-logo="" group-title="France Sport",FR: CANAL+ SPORT SD
-http://51015541299679162.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/679162.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ SPORT 4 FHD" tvg-logo="" group-title="SVIP SPORTS",PL: CANAL+ SPORT 4 FHD
-http://51015541299377555.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/377555.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT NEWS FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT NEWS FHD
-http://51015541299401037.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/401037.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="SVIP SPORTS",PL: POLSAT SPORT PREMIUM 4 FHD
-http://51015541299628541.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628541.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 5 FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT PREMIUM 5 FHD
-http://51015541299628542.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628542.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 6 FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT PREMIUM 6 FHD
-http://51015541299628543.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628543.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT FIGHT FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT FIGHT FHD
-http://51015541299331626.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/331626.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT FHD
-http://51015541299331633.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/331633.ts
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT EXTRA FHD" tvg-logo="" group-title="SVIP SPORTS",PL: POLSAT SPORT EXTRA FHD
-http://51015541299333596.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/333596.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT 5 FHD
-http://51015541299337177.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/337177.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT 3 FHD
-http://51015541299424861.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/424861.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT 7 HD
-http://51015541299425934.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/425934.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO HD" tvg-logo="" group-title="SVIP SPORTS",IT: SKY SPORT UNO HD
-http://51015541299337383.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/337383.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT AUSTRIA 1 FHD
-http://51015541299464158.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/464158.ts
-#EXTINF:-1 tvg-id="" tvg-name="[DE]* SKY SPORT AUSTRIA 1 FHD" tvg-logo="" group-title="SVIP SPORTS",[DE]* SKY SPORT AUSTRIA 1 FHD
-http://51015541299495073.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/495073.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT AUSTRIA HD
-http://51015541299625389.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/625389.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 1 HD" tvg-logo="" group-title="SVIP SP
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MIX FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT MIX FHD
-http://51015541299533676.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/533676.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 9 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT 9 HD
-http://51015541299628471.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/628471.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 10 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT 10 HD
-http://51015541299546071.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/546071.ts
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT F1 HEVC" tvg-logo="" group-title="SVIP SPORTS",[DE] SKY SPORT F1 HEVC
-http://51015541299630971.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/630971.ts
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 1 FHD" tvg-logo="" group-title="SVIP SPORTS",[DE] SKY SPORT 1 FHD
-http://51015541299639546.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/639546.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT TENNIS HD
-http://51015541299646611.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/646611.ts
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT 2 HD" tvg-logo="" group-title="SVIP SPORTS",[DE] SKY SPORT 2 HD
-http://51015541299650146.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/650146.ts
-#EXTINF:-1 tvg-id="" tvg-name="[DE]* SKY SPORT 1 FHD" tvg-logo="" group-title="SVIP SPORTS",[DE]* SKY SPORT 1 FHD
-http://51015541299653968.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/653968.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT 2 HD
-http://51015541299662321.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662321.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT 4 HD
-http://51015541299662322.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662322.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 10 FHD
-http://51015541299662326.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662326.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 1 FHD
-http://51015541299662327.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662327.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 2 FHD
-http://51015541299662328.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662328.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 3 FHD
-http://51015541299662329.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662329.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 5 FHD
-http://51015541299662330.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662330.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 6 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 6 HD
-http://51015541299662331.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662331.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 7 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 7 HD
-http://51015541299662333.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662333.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 8 SD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT BUNDESLIGA 8 SD
-http://51015541299662334.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662334.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT F1 HD
-http://51015541299662336.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662336.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT NEWS HD
-http://51015541299662337.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662337.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS CRICKET FHD
-http://51015541299337512.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/337512.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS GOLF FHD
-http://51015541299337516.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/337516.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX FHD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS MIX FHD
-http://51015541299337519.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/337519.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS PREMIER LEAGUE HD
-http://51015541299337524.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/337524.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS MAIN EVENT FHD
-http://51015541299426891.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/426891.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS ARENA HD
-http://51015541299430603.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/430603.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="" group-title="SVIP SPORTS",DE: SKY SPORT PREMIER LEAGUE FHD
-http://51015541299444584.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/444584.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS ACTION HD
-http://51015541299469693.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/469693.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="SVIP SPORTS",UK: SKY SPORTS FOOTBALL HD
-http://51015541299477929.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/477929.ts
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS MIX HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOJRusOH-c6A6cDCnxL-khB.png" group-title="UK Sport",UK: SKY SPORTS MIX HD
-http://51015541299216040.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/216040.ts
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1 HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK Sport",UK: SKY SPORTS F1 HD
-http://51015541299216045.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/216045.ts
-#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FREESPORTS FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xk3THkrLjBWqVm-YN3SvggovpGecimz7IK7UQfFoI_M3.png" group-title="UK Sport",UK: FREESPORTS FHD
-http://51015541299257098.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/257098.ts
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="UK Sport",UK: SKY SPORTS GOLF HD
-http://51015541299257174.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/257174.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNUxw9ayBmLvz0pPAm7sdI4OmSEdTEwDfhmIP5QiHUGcg.png" group-title="UK Sport",UK: SKY SPORTS MAIN EVENT HD
-http://51015541299257175.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/257175.ts
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: SKY SPORTS NEWS HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NEWS HD
-http://51015541299257177.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/257177.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOBA8d6ejY2CWWGG_dTD6X88KYMb23f-JycZlD6kQJdOA.png" group-title="UK Sport",UK: SKY SPORTS ACTION FHD
-http://51015541299267309.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/267309.ts
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOkI1m37YSjbSghd8hze3pz.png" group-title="UK Sport",UK: SKY SPORTS ARENA SD
-http://51015541299273162.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/273162.ts
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPy8OBg1YnedTPv-Xq28XDA78Yk6LmIXu_glDcQTwbzyw.png" group-title="UK Sport",UK: SKY SPORTS CRICKET HD
-http://51015541299275774.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/275774.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS RACING HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS RACING HD
-http://51015541299286153.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/286153.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HEVC" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNe1MeOUaU-7r65f6MAc0gjOKbfiQs8iblfg4t74_sByQ.png" group-title="UK Sport",UK: SKY SPORTS PREMIER LEAGUE HEVC
-http://51015541299301744.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/301744.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOkI1m37YSjbSghd8hze3pz.png" group-title="UK Sport",UK: SKY SPORTS ARENA HD
-http://51015541299306429.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306429.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS BOX OFFICE FHD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FnheMCZab6hM4DNvdY6piJI-PEiGiE9HtOG3eO_Mr6hS7yMNI9rUJEdxuK3jFscF7U.png" group-title="UK Sport",UK: SKY SPORTS BOX OFFICE FHD (EVENT ONLY)
-http://51015541299306432.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306432.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS BOX OFFICE HD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FnheMCZab6hM4DNvdY6piJI-PEiGiE9HtOG3eO_Mr6hS7yMNI9rUJEdxuK3jFscF7U.png" group-title="UK Sport",UK: SKY SPORTS BOX OFFICE HD (EVENT ONLY)
-http://51015541299306433.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306433.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS BOX OFFICE SD (EVENT ONLY)" tvg-logo="http://live.phenixiptv.com:8080/images/3ORmlTlt95jUC4jXmLWuoKBZ9DPnL0ZslPdPvntI1FnheMCZab6hM4DNvdY6piJI-PEiGiE9HtOG3eO_Mr6hS7yMNI9rUJEdxuK3jFscF7U.png" group-title="UK Sport",UK: SKY SPORTS BOX OFFICE SD (EVENT ONLY)
-http://51015541299306434.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306434.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPy8OBg1YnedTPv-Xq28XDA78Yk6LmIXu_glDcQTwbzyw.png" group-title="UK Sport",UK: SKY SPORTS CRICKET FHD
-http://51015541299306436.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306436.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xp9GKON-cBi3_snmYLa87wQuAei8Rlb8RtxLP5dja-aJDq07e1JGOyddyY61eK4wXg.png" group-title="UK Sport",UK: SKY SPORTS CRICKET SD
-http://51015541299306437.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306437.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 (BACKUP) HD
-http://51015541299306439.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306439.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNgP3K3hGb9dr0jv94ekiGr.png" group-title="UK Sport",UK: SKY SPORTS F1 SD
-http://51015541299306441.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306441.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPNAaxO8tfEPw07mDFAclTc5HmjgdAjiQtivmtG1F0fUw.png" group-title="UK Sport",UK: SKY SPORTS FOOTBALL HD
-http://51015541299306442.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306442.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOWJWHP9Am4UYfcGS6_7yEp.png" group-title="UK Sport",UK: SKY SPORTS GOLF SD
-http://51015541299306445.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306445.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT  FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNUxw9ayBmLvz0pPAm7sdI4OmSEdTEwDfhmIP5QiHUGcg.png" group-title="UK Sport",UK: SKY SPORTS MAIN EVENT  FHD
-http://51015541299306447.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306447.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS MAIN EVENT (BACKUP) HD
-http://51015541299306448.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306448.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBOJRusOH-c6A6cDCnxL-khB.png" group-title="UK Sport",UK: SKY SPORTS MIX SD
-http://51015541299306451.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306451.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS  HD" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnAI5e3iG-rTy7gVYhDgRCfY.png" group-title="UK Sport",UK: SKY SPORTS NEWS  HD
-http://51015541299306453.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306453.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NEWS SD
-http://51015541299306456.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306456.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NFL HD
-http://51015541299306457.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306457.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NFL FHD
-http://51015541299306458.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306458.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNe1MeOUaU-7r65f6MAc0gjOKbfiQs8iblfg4t74_sByQ.png" group-title="UK Sport",UK: SKY SPORTS PREMIER LEAGUE FHD
-http://51015541299306461.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306461.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS RACING SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS RACING SD
-http://51015541299306462.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/306462.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT RACING HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORT RACING HD
-http://51015541299311206.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/311206.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORT HD" tvg-logo="" group-title="UK Sport",UK: PREMIER SPORT HD
-http://51015541299314008.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/314008.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPNAaxO8tfEPw07mDFAclTc5HmjgdAjiQtivmtG1F0fUw.png" group-title="UK Sport",UK: SKY SPORTS FOOTBALL FHD
-http://51015541299314010.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/314010.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBPNAaxO8tfEPw07mDFAclTc5HmjgdAjiQtivmtG1F0fUw.png" group-title="UK Sport",UK: SKY SPORTS FOOTBALL SD
-http://51015541299314011.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/314011.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE  HEVC" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xjb4xXW3z0R4x1ZLYANoKBNe1MeOUaU-7r65f6MAc0gjOKbfiQs8iblfg4t74_sByQ.png" group-title="UK Sport",UK: SKY SPORTS PREMIER LEAGUE  HEVC
-http://51015541299314012.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/314012.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION* HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS ACTION* HD
-http://51015541299318545.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/318545.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS (BACKUP) HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NEWS (BACKUP) HD
-http://51015541299318546.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/318546.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION SD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS ACTION SD
-http://51015541299324199.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324199.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT SD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS MAIN EVENT SD
-http://51015541299324200.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324200.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NFL/ACTION FHD HEVC 25FPS
-http://51015541299324201.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324201.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD HEVC 25FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS PREMIER LEAGUE FHD HEVC 25FPS
-http://51015541299324203.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324203.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS RACING FHD HEVC 25FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS RACING FHD HEVC 25FPS
-http://51015541299324204.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324204.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION FHD 50FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS ACTION FHD 50FPS
-http://51015541299324374.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324374.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE FHD 50FPS" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS PREMIER LEAGUE FHD 50FPS
-http://51015541299324375.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/324375.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS MIX FHD
-http://51015541299342426.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/342426.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS  FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NEWS  FHD
-http://51015541299342427.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/342427.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NFL SD
-http://51015541299342428.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/342428.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 FHD
-http://51015541299343443.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/343443.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS  SD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NEWS  SD
-http://51015541299409310.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/409310.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT DOCU FHD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT DOCU FHD
-http://51015541299310298.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310298.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT EXTRA HD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT EXTRA HD
-http://51015541299310299.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310299.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF FHD" tvg-logo="http://live.phenixiptv.com:8080/images/A-7z2P98FFNv8eKnWTYePFTE4PsC-KBvim-oyknTt0B0PxQBsrjRnGK1nq-oqUcN64ioYqW598j-7CKKcRnU2jXQ0pyPwsCDfiyEbyYW68Y.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF FHD
-http://51015541299310300.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310300.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD" tvg-logo="http://live.phenixiptv.com:8080/images/A-7z2P98FFNv8eKnWTYePFTE4PsC-KBvim-oyknTt0B0PxQBsrjRnGK1nq-oqUcN64ioYqW598j-7CKKcRnU2jXQ0pyPwsCDfiyEbyYW68Y.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD
-http://51015541299310301.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310301.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF HD⁺ FHD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF HD⁺ FHD
-http://51015541299310302.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310302.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpN8OZ12IMohcKSAgcCxhvcIQ.png" group-title="Netherlands",NL: ZIGGO SPORT GOLF ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299310303.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310303.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT HD" tvg-logo="http://live.phenixiptv.com:8080/images/A-7z2P98FFNv8eKnWTYePFTE4PsC-KBvim-oyknTt0A-3JLs5i-TfH3tDX6DVtUqu1r2WsUxCJu2_Vog8-I5nTwP8CPISEMV5SDDZxZQw60.png" group-title="Netherlands",NL: ZIGGO SPORT HD
-http://51015541299310304.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310304.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT HD⁺ HEVC" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817ggG6Ff8iO9aN8JiqHrt_Pum3J5HyHASweiA774zmcQlg.png" group-title="Netherlands",NL: ZIGGO SPORT HD⁺ HEVC
-http://51015541299310305.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310305.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT RACING HD" tvg-logo="http://live.phenixiptv.com:8080/images/A-7z2P98FFNv8eKnWTYePFTE4PsC-KBvim-oyknTt0AZoyuwxEdO8FfOXIdI0WQPACWDb8eWQBVN8WUes5j0Aq8T9L0tX35eUXajzaTRTXk.png" group-title="Netherlands",NL: ZIGGO SPORT RACING HD
-http://51015541299310306.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310306.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT RACING HD⁺ FHD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpND9JlKlcQPmatJLCRLfgDyw.png" group-title="Netherlands",NL: ZIGGO SPORT RACING HD⁺ FHD
-http://51015541299310307.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310307.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT RACING ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpND9JlKlcQPmatJLCRLfgDyw.png" group-title="Netherlands",NL: ZIGGO SPORT RACING ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299310308.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310308.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT 2 HD" tvg-logo="" group-title="Netherlands",NL: ZIGGO SPORT SELECT 2 HD
-http://51015541299310309.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310309.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT FHD" tvg-logo="http://live.phenixiptv.com:8080/images/A-7z2P98FFNv8eKnWTYePFTE4PsC-KBvim-oyknTt0Dbj7S0py-vHvcUgDFms9ZKQ7UFem44dX52KjCf_yhEl2Zfc0SCZx3VbLpH1KVCecc.png" group-title="Netherlands",NL: ZIGGO SPORT SELECT FHD
-http://51015541299310310.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310310.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT HD⁺ FHD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpNidW10wOCYqvBuVvQsHjhOQ.png" group-title="Netherlands",NL: ZIGGO SPORT SELECT HD⁺ FHD
-http://51015541299310311.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310311.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpNidW10wOCYqvBuVvQsHjhOQ.png" group-title="Netherlands",NL: ZIGGO SPORT SELECT ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299310312.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310312.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL FHD" tvg-logo="http://live.phenixiptv.com:8080/images/A-7z2P98FFNv8eKnWTYePFTE4PsC-KBvim-oyknTt0B2T4W2UYjBGc2RBkZJLkDI3--WWxW2TFHjIpaTvsfovUyndFfilPEGJt5ctHHDLag.png" group-title="Netherlands",NL: ZIGGO SPORT VOETBAL FHD
-http://51015541299310313.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310313.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL HD" tvg-logo="http://live.phenixiptv.com:8080/images/A-7z2P98FFNv8eKnWTYePFTE4PsC-KBvim-oyknTt0B2T4W2UYjBGc2RBkZJLkDI3--WWxW2TFHjIpaTvsfovUyndFfilPEGJt5ctHHDLag.png" group-title="Netherlands",NL: ZIGGO SPORT VOETBAL HD
-http://51015541299310314.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310314.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL HD⁺ HD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpNYxxkhiiHZTarfLdSpf0I_g.png" group-title="Netherlands",NL: ZIGGO SPORT VOETBAL HD⁺ HD
-http://51015541299310315.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310315.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT VOETBAL ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817gzopa7G_uboJgz5uB7eGpNYxxkhiiHZTarfLdSpf0I_g.png" group-title="Netherlands",NL: ZIGGO SPORT VOETBAL ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299310316.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310316.ts
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT ᴴ²⁵⁶ ᴴᵉᵛᶜ HD" tvg-logo="s:1:/images/HvXzvVQPyy2xST9eA-GvQPIx3tXg36DtkEr9zD9817ggG6Ff8iO9aN8JiqHrt_Pum3J5HyHASweiA774zmcQlg.png" group-title="Netherlands",NL: ZIGGO SPORT ᴴ²⁵⁶ ᴴᵉᵛᶜ HD
-http://51015541299310317.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/310317.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT  HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS MAIN EVENT  HEVC
-http://51015541299343444.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/343444.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS HUNDRED HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/skysportprem1.png" group-title="UK Sport",UK: SKY SPORTS HUNDRED HD
-http://51015541299329561.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/329561.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF FHD
-http://51015541299344291.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/344291.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT  HD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS MAIN EVENT  HD
-http://51015541299344292.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/344292.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS ACTION HEVC
-http://51015541299346253.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/346253.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS FOOTBALL HEVC
-http://51015541299346254.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/346254.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT  SD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS MAIN EVENT  SD
-http://51015541299353847.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/353847.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS CRICKET HEVC
-http://51015541299357301.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/357301.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS GOLF HEVC
-http://51015541299362810.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/362810.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS F1 HEVC
-http://51015541299363772.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/363772.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS  HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NEWS  HEVC
-http://51015541299372635.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/372635.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL HEVC" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-sports-nfl-uk.png?raw=true" group-title="UK Sport",UK: SKY SPORTS NFL HEVC
-http://51015541299383196.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/383196.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA HEVC" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS ARENA HEVC
-http://51015541299390384.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/390384.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE SD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS PREMIER LEAGUE SD
-http://51015541299490424.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/490424.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS HQ FHD" tvg-logo="" group-title="UK Sport",UK: SKY SPORTS NEWS HQ FHD
-http://51015541299549739.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/549739.ts
+#EXTINF:-1 tvg-id="1" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.96:8550
+#EXTINF:-1 tvg-id="2" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.102:10250
+#EXTINF:-1 tvg-id="3" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV3 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.122:10370
+#EXTINF:-1 tvg-id="4" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.138:10466
+#EXTINF:-1 tvg-id="5" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.123:10376
+#EXTINF:-1 tvg-id="7" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.124:10382
+#EXTINF:-1 tvg-id="8" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV7 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.103:10256
+#EXTINF:-1 tvg-id="9" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.125:10388
+#EXTINF:-1 tvg-id="10" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV9 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.104:10262
+#EXTINF:-1 tvg-id="11" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV10 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.105:10268
+#EXTINF:-1 tvg-id="12" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV11 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.154:10560
+#EXTINF:-1 tvg-id="13" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV12 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.106:10274
+#EXTINF:-1 tvg-id="14" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV13 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.161:9040
+#EXTINF:-1 tvg-id="15" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV14 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.107:10280
+#EXTINF:-1 tvg-id="16" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV15 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.155:10566
+#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.247:11124
+#EXTINF:-1 tvg-id="7249" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4K
+http://dd.ikhs.cn:8880/rtp/239.69.1.249:11136
+#EXTINF:-1 tvg-id="17" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV17 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.152:10548
+#EXTINF:-1 tvg-id="6" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+ 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.234:9484
+#EXTINF:-1 tvg-id="106" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV4K 超高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.111:10304
+#EXTINF:-1 tvg-id="6569" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="CCTV",CCTV央视文化精品 高清
+#rtp/239.69.1.74:10084
+#EXTINF:-1 tvg-id="6564" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="CCTV",CCTV女性时尚 高清
+#
+#EXTINF:-1 tvg-id="6563" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="CCTV",CCTV兵器科技 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.79:10114
+#EXTINF:-1 tvg-id="6000" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="CCTV",CCTV风云足球 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-id="6560" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-id="6562" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="CCTV",CCTV怀旧剧场 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.89:10174
+#EXTINF:-1 tvg-id="6559" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="CCTV",CCTV风云剧场 高清
+#
+#EXTINF:-1 tvg-id="6558" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="CCTV",CCTV第一剧场 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.74:10084
+#EXTINF:-1 tvg-id="6557" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CCTV",CCTV风云音乐 高清
+#
+#EXTINF:-1 tvg-id="6568" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="CCTV",CCTV高尔夫网球 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.83:10138
+#EXTINF:-1 tvg-id="6584" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="CCTV",CCTV台球 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.98:10224
+#EXTINF:-1 tvg-id="22" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="CCTV",CCTV4欧洲 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.231:11028
+#EXTINF:-1 tvg-id="23" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="CCTV",CCTV4美洲 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.232:11034
+#EXTINF:-1 tvg-id="20" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="",CGTN NEWS 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.175:9124
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN FRANCAIS 高清
+#
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN ESPANOL 高清
+#
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Russian 高清
+#
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",CGTN Arabic 高清
+#
+#EXTINF:-1 tvg-id="891" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="",CGTN Documentary 高清
+#
+#EXTINF:-1 tvg-id="27" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="",湖南卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.60:9994
+#EXTINF:-1 tvg-id="2025" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="",金鹰纪实 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.109:10292
+#EXTINF:-1 tvg-id="69" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="",金鹰卡通 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.248:11130
+#EXTINF:-1 tvg-id="37" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="",海南卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.151:10542
+#EXTINF:-1 tvg-id="28" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="",浙江卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.143:8932
+#EXTINF:-1 tvg-id="29" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="",江苏卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.144:8938
+#EXTINF:-1 tvg-id="30" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="",北京卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.141:8920
+#EXTINF:-1 tvg-id="1872" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="",北京纪实 高清
+#
+#EXTINF:-1 tvg-id="31" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="",东方卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.142:8926  
+#EXTINF:-1 tvg-id="1988" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="",纪实人文 高清
+#
+#EXTINF:-1 tvg-id="1981" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="",生活时尚 高清
+#
+#EXTINF:-1 tvg-id="32" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="",安徽卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.70:10060
+#EXTINF:-1 tvg-id="33" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="",广东卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.140:8914
+#EXTINF:-1 tvg-id="34" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="",深圳卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.137:8896
+#EXTINF:-1 tvg-id="36" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="",辽宁卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.71:10066
+#EXTINF:-1 tvg-id="38" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="",山东卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.69:10054
+#EXTINF:-1 tvg-id="42" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="",甘肃卫视 高清
+#
+#EXTINF:-1 tvg-id="39" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="",天津卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.68:10048
+#EXTINF:-1 tvg-id="47" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="",河南卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.168:10644
+#EXTINF:-1 tvg-id="48" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="",湖北卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.115:8664
+#EXTINF:-1 tvg-id="1784" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI8.png" group-title="",湖北经视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.41:9886
+#EXTINF:-1 tvg-id="1779" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="",湖北影视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.204:10866
+#EXTINF:-1 tvg-id="1778" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="",湖北综合 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.42:9892
+#EXTINF:-1 tvg-id="1785" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="",湖北垄上 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.43:9898
+#EXTINF:-1 tvg-id="1780" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="",湖北教育 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.206:10878
+#EXTINF:-1 tvg-id="1783" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="",湖北公共 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.40:9880
+#EXTINF:-1 tvg-id="1781" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="",湖北生活 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.205:10872
+#EXTINF:-1 tvg-id="40" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="",重庆卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.149:10530
+#EXTINF:-1 tvg-id="41" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="",东南卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.108:10286
+#EXTINF:-1 tvg-id="43" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="",广西卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.191:10788
+#EXTINF:-1 tvg-id="44" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="",贵州卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.150:10536
+#EXTINF:-1 tvg-id="45" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="",河北卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.157:10578
+#EXTINF:-1 tvg-id="56" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="",四川卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.169:10650
+#EXTINF:-1 tvg-id="2060" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="",峨眉电影 高清
+#
+#EXTINF:-1 tvg-id="59" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="",青海卫视 高清
+#
+#EXTINF:-1 tvg-id="46" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="",黑龙江卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.254.96.138:8902
+#EXTINF:-1 tvg-id="50" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="",江西卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.126:10394
+#EXTINF:-1 tvg-id="51" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="",吉林卫视 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.212:10914
+#EXTINF:-1 tvg-id="52" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="",内蒙古卫视 高清
+#
+#EXTINF:-1 tvg-id="73" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="",CETV1 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.110:10298
+#EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="",凤凰卫视 高清
+#
+#EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="",凤凰资讯 高清
+#
+#EXTINF:-1 tvg-id="143" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="",凤凰香港 高清
+#
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",爱上4K 超高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.141:10482
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",绚影4K 超高清
+#
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",乐享4K 超高清
+#
+#EXTINF:-1 tvg-id="1963" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="",新视觉 高清
+#
+#EXTINF:-1 tvg-id="1983" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="",游戏风云 高清
+#
+#EXTINF:-1 tvg-id="1987" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="",五星体育 高清
+#
+#EXTINF:-1 tvg-id="7242" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="",魅力足球 高清
+#
+#EXTINF:-1 tvg-id="1964" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="",劲爆体育 高清
+#
+#EXTINF:-1 tvg-id="6244" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="",求索纪录 高清
+#
+#EXTINF:-1 tvg-id="6240" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="",求索科学 高清
+#
+#EXTINF:-1 tvg-id="6242" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="",求索动物 高清
+#
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",求索生活 高清
+#
+#EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="",CHC高清电影 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.241:11088
+#EXTINF:-1 tvg-id="6245" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="",CHC动作电影 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.242:11094
+#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="",CHC家庭电影 高清
+http://dd.ikhs.cn:8880/rtp/239.69.1.243:11100
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",BESTV测试 4K
+http://dd.ikhs.cn:8880/rtp/239.69.1.26:9796
