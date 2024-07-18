@@ -57,7 +57,7 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.89:10174
 #EXTINF:-1 tvg-id="6558" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="CCTV",CCTV第一剧场 高清
 http://dd.ikhs.cn:8880/rtp/239.69.1.74:10084
 #EXTINF:-1 tvg-id="6557" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CCTV",CCTV风云音乐 高清
-http://dd.ikhs.cn:8880/239.69.1.90:10180
+http://dd.ikhs.cn:8880/rtp/239.69.1.90:10180
 #EXTINF:-1 tvg-id="6568" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="CCTV",CCTV高尔夫网球 高清
 http://dd.ikhs.cn:8880/rtp/239.69.1.83:10138
 #EXTINF:-1 tvg-id="6584" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="CCTV",CCTV台球 高清
