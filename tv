@@ -163,7 +163,7 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.175:10686
 #
 #EXTINF:-1 tvg-id="143" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="",凤凰香港 高清
 #
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="卫视",爱上4K 超高清
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="卫",爱上4K
 http://dd.ikhs.cn:8880/rtp/239.69.1.141:10482
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="卫视",绚影4K 超高清
 #
